@@ -1,1 +1,1 @@
-# bitcoin-dot
+# bitswap-coin
